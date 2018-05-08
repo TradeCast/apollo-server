@@ -4,6 +4,10 @@ All of the packages in the `apollo-server` repo are released with the same versi
 
 ### vNEXT
 
+### v1.4.0
+
+* **New feature**: Add support for additional [GraphQL extensions](https://github.com/apollographql/graphql-extensions) by passing the option `extensions: [CustomExtension]` to your server's GraphQL integration function. [PR #934](https://github.com/apollographql/apollo-server/pull/934)
+
 ### v1.3.6
 
 * Recognize requests with Apollo Persisted Queries and return `PersistedQueryNotSupported` to the client instead of a confusing error. [PR #982](https://github.com/apollographql/apollo-server/pull/982)

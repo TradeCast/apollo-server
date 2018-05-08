@@ -1,6 +1,6 @@
 {
   "lerna": "2.0.0",
-  "version": "1.3.7",
+  "version": "1.3.6",
   "changelog": {
     "repo": "TradeCast/apollo-server",
     "labels": {

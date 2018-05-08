@@ -1,8 +1,8 @@
 {
   "lerna": "2.0.0",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "changelog": {
-    "repo": "apollographql/apollo-server",
+    "repo": "TradeCast/apollo-server",
     "labels": {
       "tag: breaking change": ":boom: Breaking Change",
       "tag: new feature": ":rocket: New Feature",

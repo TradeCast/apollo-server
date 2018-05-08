@@ -4,7 +4,7 @@ import testSuite, {
   CreateAppOptions,
 } from 'apollo-server-integration-testsuite';
 import { expect } from 'chai';
-import { GraphQLOptions } from 'apollo-server-core';
+import { GraphQLOptions } from '@tradecast/apollo-server-core';
 import 'mocha';
 import * as url from 'url';
 

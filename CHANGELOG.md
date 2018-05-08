@@ -4,7 +4,7 @@ All of the packages in the `apollo-server` repo are released with the same versi
 
 ### vNEXT
 
-### v1.4.0
+### v1.3.7
 
 * **New feature**: Add support for additional [GraphQL extensions](https://github.com/apollographql/graphql-extensions) by passing the option `extensions: [CustomExtension]` to your server's GraphQL integration function. [PR #934](https://github.com/apollographql/apollo-server/pull/934)
 
